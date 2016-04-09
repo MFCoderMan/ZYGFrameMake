@@ -1,6 +1,7 @@
 # ZYGFrameMake
 An auto frame demo 
-图片示例：
+
+在各个机型上的图片示例：
 
 6p：
 
