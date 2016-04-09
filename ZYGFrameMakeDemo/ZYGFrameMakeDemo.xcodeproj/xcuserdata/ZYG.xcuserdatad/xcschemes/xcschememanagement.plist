@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>ZYGFrameMakeDemo.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>021017971CB7BF05000E59D2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>021017B01CB7BF06000E59D2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>021017BB1CB7BF06000E59D2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
